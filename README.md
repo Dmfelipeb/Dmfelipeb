@@ -1,6 +1,6 @@
-<!-- Banner Animado de Bienvenida -->
+<!-- Banner Animado de Bienvenida (Limpio, sin símbolos % ni caracteres rotos) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:f7df1e&height=210&section=header&text=Felipe%20Brito%20L%C3%B3pez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Ingeniero%20en%20Sistemas%20%7C%20Full%20Stack,%20Desktop,%20M%C3%B3vil,%20IA%20%2526%20IoT%20%F0%9F%87%A9%F0%9F%87%B4&descAlignY=58&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:f7df1e&height=210&section=header&text=Felipe%20Brito&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Ingeniero%20en%20Sistemas%20%7C%20Full%20Stack,%20Desktop,%20M%C3%B3vil%20e%20IA%20%F0%9F%87%A9%F0%9F%87%B4&descAlignY=58&descSize=17" width="100%" />
 </p>
 
 <!-- Máquina de Escribir Dinámica -->
@@ -28,7 +28,7 @@
 ---
 
 ### 👨‍💻 Sobre mí
-¡Hola! Soy **Felipe Brito López** (`@Dm_felipeb`), **Ingeniero en Sistemas** desde Santo Domingo, República Dominicana 🇩🇴.
+¡Hola! Soy **Felipe Brito** (`@Dm_felipeb`), **Ingeniero en Sistemas** desde Santo Domingo, República Dominicana 🇩🇴.
 
 Soy un desarrollador **integral (360°)**: diseño y construyo soluciones de punta a punta sin limitarme a un solo entorno —abarcando **Web, Desktop, Móvil, Inteligencia Artificial, Automatización, Hardware/IoT e Infraestructura propia (*Homelabs*)**— y comparto ese criterio práctico con quienes están empezando desde cero.
 
