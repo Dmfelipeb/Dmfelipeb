@@ -1,9 +1,9 @@
-<!-- Banner Animado de Bienvenida (Capsule Render) -->
+<!-- Banner Animado de Bienvenida -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:f7df1e&height=210&section=header&text=Felipe%20Brito%20L%C3%B3pez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Ingeniero%20en%20Sistemas%20%7C%20Full%20Stack,%20Desktop,%20M%C3%B3vil,%20IA%20%26%20IoT%20%F0%9F%87%A9%F0%9F%87%B4&descAlignY=58&descSize=17" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:f7df1e&height=210&section=header&text=Felipe%20Brito%20L%C3%B3pez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Ingeniero%20en%20Sistemas%20%7C%20Full%20Stack,%20Desktop,%20M%C3%B3vil,%20IA%20%2526%20IoT%20%F0%9F%87%A9%F0%9F%87%B4&descAlignY=58&descSize=16" width="100%" />
 </p>
 
-<!-- Máquina de Escribir Dinámica (Typing SVG) -->
+<!-- Máquina de Escribir Dinámica -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=F7DF1E&center=true&vCenter=true&width=780&lines=Ingeniero+en+Sistemas+%7C+Desarrollo+Integral+(Web,+Desktop+%26+M%C3%B3vil);Creador+del+Curso+Full+JavaScript%3A+De+0+a+Experto+%F0%9F%9A%80;IA+Aplicada,+Agentes+Locales,+Homelabs,+IoT+%26+Antigravity;Ense%C3%B1ando+a+razonar+el+c%C3%B3digo,+no+a+memorizarlo" alt="Typing SVG" />
 </p>
@@ -33,8 +33,8 @@
 Soy un desarrollador **integral (360°)**: diseño y construyo soluciones de punta a punta sin limitarme a un solo entorno —abarcando **Web, Desktop, Móvil, Inteligencia Artificial, Automatización, Hardware/IoT e Infraestructura propia (*Homelabs*)**— y comparto ese criterio práctico con quienes están empezando desde cero.
 
 * 🎓 **Formación:** Ingeniería en Sistemas (Universidad Dominicana O&M).
-* 🎥 **Iniciativa Pública Principal:** [Curso Full JavaScript: De Cero a Experto](https://github.com/Dm-felipe/curso-javascript-desde-cero) — Una ruta completa para entender cómo piensa la máquina por dentro, sin rodeos y con lógica aplicada[cite: 7].
-* 🤖 **IA & Automatización:** Orquestación de agentes locales en Python/Rust, flujos agénticos (*Antigravity*) y despliegue de servicios en *Homelabs*[cite: 7].
+* 🎥 **Iniciativa Pública Principal:** [Curso Full JavaScript: De Cero a Experto](https://github.com/Dm-felipe/curso-javascript-desde-cero) — Una ruta completa para entender cómo piensa la máquina por dentro, sin rodeos y con lógica aplicada.
+* 🤖 **IA & Automatización:** Orquestación de agentes locales en Python/Rust, flujos agénticos (*Antigravity*) y despliegue de servicios en *Homelabs*.
 
 ---
 
@@ -67,7 +67,7 @@ Soy un desarrollador **integral (360°)**: diseño y construyo soluciones de pun
 
 | Proyecto | Enfoque | Stack Principal | Estado |
 | :--- | :--- | :---: | :---: |
-| **[📚 Curso Full JavaScript (De 0 a Experto)](https://github.com/Dm-felipe/curso-javascript-desde-cero)** | Repositorio oficial con código fuente, retos de lógica y arquitectura modular de mi serie educativa en YouTube y Shorts[cite: 7]. | `JavaScript` `ES6+` `DOM` `APIs` | 🟢 *Activo* |
+| **[📚 Curso Full JavaScript (De 0 a Experto)](https://github.com/Dm-felipe/curso-javascript-desde-cero)** | Repositorio oficial con código fuente, retos de lógica y arquitectura modular de mi serie educativa en YouTube y Shorts. | `JavaScript` `ES6+` `DOM` `APIs` | 🟢 *Activo* |
 
 ---
 
