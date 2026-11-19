@@ -28,7 +28,7 @@
 ---
 
 ### 👨‍💻 Sobre mí
-¡Hola! Soy **Felipe Brito** (`@Dm_felipeb`), **Ingeniero en Sistemas** desde Santo Domingo, República Dominicana 🇩🇴.
+¡Hola! Soy **Felipe ** (`@Dm_felipeb`), **Ingeniero en Sistemas** desde Santo Domingo, República Dominicana 🇩🇴.
 
 Soy un desarrollador **integral (360°)**: diseño y construyo soluciones de punta a punta sin limitarme a un solo entorno abarcando **Web, Desktop, Móvil, Inteligencia Artificial**, utilizo la tecnologia que mejor resuelva el problema, me encanta aprender cosas nuevas y soy muy versatil con mis tecnologias, como digo yo, si dominas la logica la herramienta la eliges tu.
 
