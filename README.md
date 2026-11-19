@@ -1,12 +1,12 @@
 <!-- Banner Animado de Bienvenida (Capsule Render) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:f7df1e&height=210&section=header&text=Felipe%20Brito%20L%C3%B3pez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Ingeniero%20en%20Sistemas%20%7C%20Software%20%26%20Game%20Developer%20%F0%9F%87%A9%F0%9F%87%B4&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:f7df1e&height=210&section=header&text=Felipe%20Brito%20L%C3%B3pez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Ingeniero%20en%20Sistemas%20%7C%20Software,%20IA%20%26%20Homelabs%20%F0%9F%87%A9%F0%9F%87%B4&descAlignY=58&descSize=18" width="100%" />
 </p>
 
 <!-- Máquina de Escribir Dinámica (Typing SVG) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=F7DF1E&center=true&vCenter=true&width=720&lines=Ingeniero+en+Sistemas+%7C+Arquitectura+de+Software+y+Videojuegos;Creador+del+Curso+Full+JavaScript%3A+De+0+a+Experto+%F0%9F%9A%80;C%2B%2B+%2F+Unreal+Engine+%E2%80%A2+.NET+MAUI+%E2%80%A2+JavaScript+Moderno;Ense%C3%B1ando+a+razonar+el+c%C3%B3digo,+no+a+memorizarlo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=F7DF1E&center=true&vCenter=true&width=750&lines=Ingeniero+en+Sistemas+%7C+Desarrollo+Full+Stack+%26+M%C3%B3vil;Creador+del+Curso+Full+JavaScript%3A+De+0+a+Experto+%F0%9F%9A%80;IA+Aplicada,+Automatizaci%C3%B3n,+Homelabs+%26+Antigravity;Ense%C3%B1ando+a+razonar+el+c%C3%B3digo,+no+a+memorizarlo" alt="Typing SVG" />
   </a>
 </p>
 
@@ -30,51 +30,68 @@
 ---
 
 ### 👨‍💻 Sobre mí
-¡Hola! Soy **Felipe Brito López** (`@Dm_felipeb`), **Ingeniero en Sistemas** desde Santo Domingo, República Dominicana 🇩🇴. 
+¡Hola! Soy **Felipe Brito López** (`@Dm_felipeb`), **Ingeniero en Sistemas** desde Santo Domingo, República Dominicana 🇩🇴.
 
-Me apasiona construir software con arquitectura sólida —desde aplicaciones multiplataforma y sistemas web hasta videojuegos multijugador en C++ y Unreal Engine— y compartir ese criterio técnico con quienes están empezando desde cero.
+Me apasiona diseñar soluciones de software de punta a punta —combinando desarrollo web y móvil moderno, inteligencia artificial, infraestructura propia (*Homelabs*) y flujos avanzados de automatización— y compartir ese criterio práctico con quienes están empezando desde cero.
 
 * 🎓 **Formación:** Ingeniería en Sistemas (Universidad Dominicana O&M).
-* 🎥 **Iniciativa Actual:** [Curso Full JavaScript: De Cero a Experto](https://github.com/Dm-felipe/curso-javascript-desde-cero) — Una ruta completa para entender cómo piensa la máquina por dentro, sin rodeos y con lógica aplicada.
-* 🎮 **En Desarrollo:** *Aquatic Legends* — Videojuego multijugador isométrico en **C++ / Unreal Engine** (arquitectura replicada, combate naval e IA).
-* 🤖 **Automatización:** Integración de flujos de productividad y asistentes locales en PC (*Jarvis*).
+* 🎥 **Iniciativa Pública Principal:** [Curso Full JavaScript: De Cero a Experto](https://github.com/Dm-felipe/curso-javascript-desde-cero) — Una ruta completa para entender cómo piensa la máquina por dentro, sin rodeos y con lógica aplicada[cite: 3].
+* 🤖 **IA & Automatización:** Desarrollo con flujos agénticos (*Antigravity*), asistentes locales (*Jarvis*) y despliegue de servicios en *Homelabs*[cite: 6].
 
 ---
 
-### 🛠️ Stack Tecnológico & Herramientas
+### 🛠️ Ecosistema Técnico & Herramientas
 
-#### Lenguajes & Desarrollo Web
+#### Lenguajes & Desarrollo (Web, Móvil & Sistemas)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,cs,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,kotlin,cs,cpp,html,css,nodejs&theme=dark" />
 </p>
 
-#### Frameworks, Motores & Entorno
+#### Frameworks, Infraestructura, IA & Entorno
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,unreal,git,github,vscode,visualstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dotnet,androidstudio,linux,docker,git,github,vscode,visualstudio&theme=dark" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AI_Workflows-Antigravity-8A2BE2?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infrastructure-Homelabs_%26_Self--Hosted-0F172A?style=for-the-badge&logo=proxmox&logoColor=E57000" />
+  <img src="https://img.shields.io/badge/Automation-Local_Agents-1E293B?style=for-the-badge&logo=robotframework&logoColor=F7DF1E" />
 </p>
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🚀 Iniciativas Públicas & Código Abierto
 
-| Proyecto | Descripción | Stack Principal | Estado |
+| Proyecto | Enfoque | Stack Principal | Estado |
 | :--- | :--- | :---: | :---: |
-| **[📚 Curso Full JavaScript (0 a Experto)](https://github.com/Dm-felipe/curso-javascript-desde-cero)** | Repositorio oficial con código fuente, retos de lógica y arquitectura modular de mi serie educativa en YouTube y Shorts. | `JavaScript` `ES6+` `DOM` `APIs` | 🟢 *Activo* |
-| **⛵ Aquatic Legends** | Juego multijugador cenital de gestión y combate naval *Boss Rush* con sistemas de inventario replicado y persistencia. | `C++` `Unreal Engine` `Networking` | 🟡 *En desarrollo* |
-| **📱 FigsBeta (.NET MAUI)** | Aplicación móvil multiplataforma con navegación Shell, perfiles dinámicos y arquitectura limpia. | `C#` `.NET MAUI` `XAML` | 🔵 *Completado* |
+| **[📚 Curso Full JavaScript (De 0 a Experto)](https://github.com/Dm-felipe/curso-javascript-desde-cero)** | Repositorio oficial con código fuente, retos de lógica y arquitectura modular de mi serie educativa en YouTube y Shorts[cite: 3]. | `JavaScript` `ES6+` `DOM` `APIs` | 🟢 *Activo* |
 
 ---
 
-### 📊 Actividad y Métricas en GitHub
+### 🧭 Áreas de Especialidad
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Dm-felipe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=f7df1e&icon_color=f7df1e" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dm-felipe&layout=compact&langs_count=6&theme=tokyonight&title_color=f7df1e" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dm-felipe&theme=tokyonight&ring=f7df1e&fire=f7df1e&currStreakLabel=f7df1e" alt="GitHub Streak" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <b>🌐 Desarrollo Web & Móvil</b><br>
+      <sub>Arquitectura moderna en JavaScript/TypeScript, aplicaciones nativas/multiplataforma con <b>Kotlin</b> y <b>.NET</b>, y código limpio orientado a mantenimiento.</sub>
+    </td>
+    <td width="50%">
+      <b>🤖 IA, Antigravity & Automatización</b><br>
+      <sub>Orquestación de agentes de desarrollo, flujos asistidos por IA y automatización de tareas locales en PC para máxima productividad.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>🖥️ Homelabs & Infraestructura</b><br>
+      <sub>Administración de servidores propios, contenedores Docker, redes locales y despliegue de servicios self-hosted.</sub>
+    </td>
+    <td width="50%">
+      <b>🎓 Educación Técnica</b><br>
+      <sub>Traducción de conceptos complejos de ingeniería a explicaciones claras, prácticas y aplicables desde cero.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
